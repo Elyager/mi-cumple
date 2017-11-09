@@ -1,0 +1,34 @@
+{
+  "name": "tu-cumple",
+  "version": "0.1.0",
+  "description": "A simple npm module example that tells you the day of the week for your next birthday.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elyager/mi-cumple.git"
+  },
+  "keywords": [
+    "dates",
+    "educational",
+    "javascript",
+    "momentjs"
+  ],
+  "author": "Erik Elyager <elyager@gmail.com> (https://twitter.com/elyager)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elyager/mi-cumple/issues"
+  },
+  "homepage": "https://github.com/Elyager/mi-cumple#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "moment": "^2.19.1"
+  }
+}
