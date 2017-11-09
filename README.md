@@ -42,3 +42,4 @@ npm run test
 - Add famous people that born the same day as you
 - Add how much time is left for your next birthday
 - Improve current test cases and add more
+- Move "how to make a contribution" to contribution.md file
